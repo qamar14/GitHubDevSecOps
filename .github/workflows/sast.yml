@@ -1,4 +1,4 @@
-name: 40 SAST
+name: 40 SAgST
 
 on:
   workflow_dispatch:
