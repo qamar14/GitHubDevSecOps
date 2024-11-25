@@ -1,4 +1,4 @@
-name: 50 DAST Scan Docker Image
+name: 50 DASST Scan Docker Image
 on:
   workflow_dispatch:
     inputs:
