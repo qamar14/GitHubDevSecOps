@@ -9,7 +9,7 @@ on:
   
 jobs:
   build:
-    name: Build
+    name: Builds
     uses: ./.github/workflows/build.yml
     secrets: inherit #https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idsecretsinherit
 
